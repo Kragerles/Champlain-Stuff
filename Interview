@@ -1,0 +1,42 @@
+Lets start with where and what you've worked on after graduation
+
+nickshun — 9/1/2025 8:08 PM
+Alright, after graduating, it took ~6 months to land a job. I stared working at Funcom's NC studio, and was there for 2 years. The project was a third person coop hero shooter that originally aimed to fill the vacuum that Left 4 Dead had left for a few years. That project was horribly mismanaged and had an art director that was very hostile and sabotaged others. The game never even got announced before it was canceled shortly after I left. Some of the stuff I did for the project was make most of the hero ability kits, re-did the weapon system, and I managed all the unreal animation graphs and skeletal meshes (basically the animators imported the animations into the engine and then I took them and make the animation graphs that controlled when and how the animations played) 
+
+Then I went to Redstorm, an Ubisoft Studio. There I worked for 4.5 years on Assassins Creed Nexus VR which did ship! There I was a programmer on the combat team. I touched a little bit of enemy navigation, but mostly I setup all the weapons, wrote some enemy behaviors, and made a system that the designers could use to dictate how combat flowed based on player actions, and also did most of the IK used on enemies both in and out of combat. 
+After Nexus shipped, I moved over to an unannounced title for 6 months where I did some more combat behavior stuff before I ultimately left Ubi.
+
+I went to Studio Hermitage, a small studio of a mixture of Red storm and funcom ex-coworkers that Embracer's child entity Amplifier created to make a multimedia IP. I did some AI and UI work there, but I was onl ythere for 2 months before Embracer killed Amplifier, and subsequently my studio. 
+
+While job hunting I've been doing some contract programming work with a different ex-coworker on his VR game, doing player combat, IK, and some animation programming stuff as needed
+
+@nickshun
+Alright, after graduating, it took ~6 months to land a job. I stared working at Funcom's NC studio, and was there for 2 years. The project was a third person coop hero shooter that originally aimed to fill the vacuum that Left 4 Dead had left for a few years. That project was horribly mismanaged and had an art director that was very hostile and sabotaged others. The game never even got announced before it was canceled shortly after I left. Some of the stuff I did for the project was make most of the hero ability kits, re-did the weapon system, and I managed all the unreal animation graphs and skeletal meshes (basically the animators imported the animations into the engine and then I took them and make the animation graphs that controlled when and how the animations played)   Then I went to Redstorm, an Ubisoft Studio. There I worked for 4.5 years on Assassins Creed Nexus VR which did ship! There I was a programmer on the combat team. I touched a little bit of enemy navigation, but mostly I setup all the weapons, wrote some enemy behaviors, and made a system that the designers could use to dictate how combat flowed based on player actions, and also did most of the IK used on enemies both in and out of combat.  After Nexus shipped, I moved over to an unannounced title for 6 months where I did some more combat behavior stuff before I ultimately left Ubi.  I went to Studio Hermitage, a small studio of a mixture of Red storm and funcom ex-coworkers that Embracer's child entity Amplifier created to make a multimedia IP. I did some AI and UI work there, but I was onl ythere for 2 months before Embracer killed Amplifier, and subsequently my studio.   While job hunting I've been doing some contract programming work with a different ex-coworker on his VR game, doing player combat, IK, and some animation programming stuff as needed
+
+Kragerles
+ — 9/1/2025 8:36 PM
+After leaving the first project and it's subsequent cancelation (even if it wasn't the best conditions ), how did you feel about your future in the industry, did you stay hopeful into finding your next job or worried and uncertain how things would play out
+
+nickshun — 9/1/2025 8:41 PM
+I waited to leave Funcom until I already had a job offer from Redstorm, so my future wasn't uncertain. I left I think about 2 months before it was canceled, but I dont think anyone was let go when it was cancelled. Funcom is a mid sized studio and had income from their Survival crafting game Conan: Exiles. Its one of the benefits of being at a mid or large sized studio. If a project tanks or gets canceled, there's enough buffer to either shift people to an existing project, or take the failings,  learn from them, and start a new project while keeping everyone on board.
+[8:41 PM]
+But I also made the transition from Junior to Mid level programmer when I went from Funcom to Resdstorm
+
+@nickshun
+But I also made the transition from Junior to Mid level programmer when I went from Funcom to Resdstorm
+
+Kragerles
+ — 9/1/2025 8:42 PM
+And what changes did that bring?
+
+nickshun — 9/1/2025 8:45 PM
+from junior to Mid level typically brings more responsibility. You're expected to be able to work autonomously, but able to communicate when something isnt working out or you just need more info about how to do a task. basically proves "I know how to do game programming to a useable extent" and "I know when to ask for help". the studio change brought a much more structured project, a non-toxic work environment, and better pay
+September 2, 2025
+
+Kragerles
+ — Yesterday at 5:07 PM
+Sorry for the bit of radio silence, but I've got one more question for you. If there was any advice you'd have to give to any new or aspirating game developers, what would it be?
+
+nickshun — Yesterday at 5:34 PM
+One of the most important things is learning how to communicate with your team and know when you need to give and in depth explanation of something or just give a surface level explanation (I. E. A programmer talking to a programmer VS a programmer taking to designer)
+Also, it may be tempting, but do not use AI to code. It's very good at writing code that seems like it works, but is either way too unperformant or does not cover enough edge cases. You need to learn how to do things yourself first before you are able to diagnose and correct AI code
