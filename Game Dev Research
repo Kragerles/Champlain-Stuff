@@ -1,0 +1,12 @@
+1. Research and list at least five game development career pathways. (Ex.: Game Design, Game Programming...) List and describe some of the big areas of game dev;
+Game Design : The very core of a games production, game designers create the idea of the game itself, it's rules, systems, mechanics and interactions start with the designers and put into development by the rest of the team.
+Game Artists : Sight is our most influential sense and one of two used in traditional games, so sprite painting, asset modeling, and animating has the biggest impact to the games style and emotion.
+Sound Design : The next most important sense to games is sound. Making or breaking the atmosphere if the sound perfectly matches visuals.
+Localization : To sell well across the globe, a game needs players across the globe and having translations and modifactions to be available across other countries is crucial to success.
+Marketing : Sales also need advertisement, and marketing a game properly needs good ads sent to a proper audience, all determined by a games marketing team. 
+2. Specifically in game programming, research, list and explain the major disciplines. (Ex.: AI, Physics...) For every one of them, list some job position titles.
+AI Programming : Not the use of an AI to program but the programming of an AI as a part of the game, from NPCs to procedural generation.
+Engine Programmer : Most games run off of pre existing game engines, but some use modified or unique engines which themselves need to be programmed.
+Gameplay Programmer :  Programmers who implement the users interaction with the game including movement, combat, puzzles, and inputs.
+Graphics Programmer :  Programmers who create and manipulate software to render visuals and lighting to perfect the look of a game.
+UI Programmer : Games tend to display information outside of the game play itself through a HUD made by UI programmers.
